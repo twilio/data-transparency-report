@@ -33,8 +33,7 @@ Italy (3), Norway (2), Portugal (1), Switzerland (4) Asia Pacific: Australia
 (4), Japan (2)
 
 
-### Total Government Requests Received First Half of 2015 (Jan 1 - Jun 30) by
-### Government Type
+### Total Government Requests Received First Half of 2015 (Jan 1 - Jun 30) by Government Type
 
 Federal - US Number of Requests Received: 120 Number of Requests Where Twilio
 Provided Customer Contact Information Only: 57 Number of Requests Where Twilio
@@ -86,7 +85,7 @@ Notes:
   the request to prevent disclosure.
 
 
-## What responses to government requests for user information did Twilio provide?
+### What responses to government requests for user information did Twilio provide?
 
 In the first half of 2015, Twilio responded to 170 requests for user
 information from government agencies. 
@@ -150,8 +149,7 @@ not be issued in secret, and only be issued with proper transparency,
 accountability and oversight.
 
 
-### What notifications of government requests for user information did Twilio send 
-### to affected customers?
+### What notifications of government requests for user information did Twilio send to affected customers?
 
 In the first half of 2015, we responded to 170 government requests for user
 information and notified our customers in 55 of these requests.
