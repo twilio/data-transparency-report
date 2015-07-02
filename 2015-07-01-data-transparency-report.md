@@ -35,35 +35,16 @@ Italy (3), Norway (2), Portugal (1), Switzerland (4) Asia Pacific: Australia
 
 ### Total Government Requests Received First Half of 2015 (Jan 1 - Jun 30) by Government Type
 
-Federal - US Number of Requests Received: 120 Number of Requests Where Twilio
-Provided Customer Contact Information Only: 57 Number of Requests Where Twilio
-Provided Customer Contact Information and Specified User Content: 6 Number of
-Requests Where Twilio Declined to Furnish Information: 35 Number of Requests
-Withdrawn by Agency Based on Twilio Disclosure Policy: 22
+![Exhibit
+1](https://raw.github.com/twilio/data-transparency-report/master/images/2015-07-01-exhibit-1.png)
 
-State - US Number of Requests Received: 91 Number of Requests Where Twilio
-Provided Customer Contact Information Only: 75 Number of Requests Where Twilio
-Provided Customer Contact Information and Specified User Content: 6 Number of
-Requests Where Twilio Declined to Furnish Information: 9 Number of Requests
-Withdrawn by Agency Based on Twilio Disclosure Policy: 1
-
-Local - US Number of Requests Received: 11 Number of Requests Where Twilio
-Provided Customer Contact Information Only: 1 Number of Requests Where Twilio
-Provided Customer Contact Information and Specified User Content: 9 Number of
-Requests Where Twilio Declined to Furnish Information: 1 Number of Requests
-Withdrawn by Agency Based on Twilio Disclosure Policy: 0
-
-International Number of Requests Received: 46 Number of Requests Where Twilio
-Provided Customer Contact Information Only: 13 Number of Requests Where Twilio
-Provided Customer Contact Information and Specified User Content: 3 Number of
-Requests Where Twilio Declined to Furnish Information: 29 Number of Requests
-Withdrawn by Agency Based on Twilio Disclosure Policy: 1
-
-Total Number of Requests Received: 268 Number of Requests Where Twilio Provided
-Customer Contact Information Only: 146 Number of Requests Where Twilio Provided
-Customer Contact Information and Specified User Content: 24 Number of Requests
-Where Twilio Declined to Furnish Information: 74 Number of Requests Withdrawn
-by Agency Based on Twilio Disclosure Policy: 24
+|               | Total Requests | Twilio Provided Customer Contact Information Only | Twilio Provided Customer Contact Information and Specified User Content | Twilio Declined To Furnish Information | Requests Withdrawn by Agency Based On Twilio Disclosure Policy |
+|---------------|----------------|---------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
+| Federal - US  | 120            | 57                                                | 6                                                                       | 35                                     | 22                                                             |
+| State - US    | 91             | 75                                                | 6                                                                       | 9                                      | 1                                                              |
+| Local - US    | 11             | 1                                                 | 9                                                                       | 1                                      | 0                                                              |
+| International | 46             | 13                                                | 3                                                                       | 29                                     | 1                                                              |
+| Total         | 268            | 146                                               | 24                                                                      | 74                                     |  24                                                              |
 
 Notes:
 
@@ -87,35 +68,19 @@ Notes:
 
 ### What responses to government requests for user information did Twilio provide?
 
-In the first half of 2015, Twilio responded to 170 requests for user
-information from government agencies. 
+![Exhibit
+2](https://raw.github.com/twilio/data-transparency-report/master/images/2015-07-01-exhibit-2.png)
 
-Responses to Government Requests by Request Type First Half of 2015 (Jan 1 -
-Jun 30)
-
-Civil Investigative Demand Federal - US: 2 State - US: 7 Local - US: 0
-International: 2 Total: 11
-
-Court Order Federal - US: 25 State - US: 13 Local - US: 1 International: 3
-Total: 42
-
-Grand Jury Subpoena Federal - US: 9 State - US: 11 Local - US: 0 International:
-0 Total: 20
-
-Subpoena Federal - US: 27 State - US: 42 Local - US: 6 International: 0 Total:
-75
-
-Search Warrant Federal - US: 0 State - US: 5 Local - US: 1 International: 0
-Total: 6
-
-Other: Exigent Request Federal - US: 0 State - US: 3 Local - US: 1
-International: 1 Total: 5
-
-Other: Takedown Request Federal - US: 0 State - US: 0 Local - US: 1
-International: 0 Total: 1
-
-Police Force Order Federal - US: 0 State - US: 0 Local - US: 0 International:
-10 Total: 10
+|                            | Federal - US | State - US | Local - US | International | Total |
+|----------------------------|--------------|------------|------------|---------------|-------|
+| Civil Investigative Demand | 2            | 7          | 0          | 2             | 11    |
+| Court Order                | 25           | 13         | 1          | 3             | 42    |
+| Grand Jury Subpoena        | 9            | 11         | 0          | 0             | 20    |
+| Subpoena                   | 27           | 42         | 6          | 0             | 75    |
+| Search Warrant             | 0            | 5          | 1          | 0             | 6     |
+| Other - Exigent Request    | 0            | 3          | 1          | 1             | 5     |
+| Other - Takedown Request   | 0            | 0          | 1          | 0             | 1     |
+| Police Force Order         | 0            | 0          | 0          | 10            | 10    |
 
 Notes:
 
@@ -158,19 +123,17 @@ In accordance with our Privacy Policy, Twilio notifies customers of our
 compliance with a government request wherever we are not prohibited from doing
 so by statute, subpoena or court or administrative order.
 
-Total Government Requests Received First Half of 2015 (Jan 1 - Jun 30): 268
-Number of Requests Where Twilio Did Not Notify Our Customer that User
-Information Was Produced: 115 Number of Requests Where Twilio Notified Our
-Customer that User Information Was Produced: 55 Number of Requests Where Twilio
-Declined to Furnish User Information to the Requesting Agency: 74 Number of
-Requests Withdrawn by the Requesting Agency Based on Twilio Disclosure Policy:
-24
+![Exhibit
+3](https://raw.github.com/twilio/data-transparency-report/master/images/2015-07-01-exhibit-3.png)
 
+| Total Government Requests for Information Received First Half of 2015 | Requests Where Twilio Did Not Notify Customer That User Information Was Produced | Requests Where Twilio Notified Customer That User Information Was Produced | Requests Were Twilio Declined To Furnish User Information To Requesting Agency | Requests Withdrawn By Agency Based On Twilio Disclosure Policy |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 268                                                                   | 115                                                                              | 55                                                                         | 74                                                                             | 2                                                              | 24
 
 ### Conclusion
 
 Twilio's developers, customers and end users expect our platform to be secure
-and private. We are mindful of these expectations and we take seriously the
+and private. We are mindful of these expectation    s and we take seriously the
 trust that our customers have placed in us when choosing the Twilio platform.
 
 The 118 customers for whom we have received government requests as indicated in
