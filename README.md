@@ -23,3 +23,5 @@ to any changes or modifications to these reports.
 
 * [1 July
   2015](https://github.com/twilio/data-transparency-report//blob/master/2015-07-01-data-transparency-report.md)
+* [1 January
+    2016](https://github.com/twilio/data-transparency-report//blob/master/2016-01-01-data-transparency-report.md)
