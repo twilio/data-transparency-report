@@ -44,9 +44,6 @@ Notes:
 
 In the second half of 2015, Twilio responded to 191 requests for user information from government agencies.
 
-![Exhibit
-2](https://raw.githubusercontent.com/twilio/data-transparency-report/master/images/2016-01-01-exhibit-2.png)
-
 |                            | Federal - US | State - US | Local - US | International | Total |
 |----------------------------|--------------|------------|------------|---------------|-------|
 | Civil Investigative Demand | 0            | 2          | 0          | 1             | 3     |
@@ -87,8 +84,7 @@ In the second half of 2015, Twilio responded to 191 government requests for user
 In accordance with the Twilio Privacy Policy, Twilio notifies customers of compliance with a government request whenever not prohibited from doing so by statute, subpoena or court or administrative order.
 
 ![Exhibit
-3](INCLUDE LINK TO PNG OF SECOND GRAPH)
-
+2](https://raw.githubusercontent.com/twilio/data-transparency-report/master/images/2016-01-01-exhibit-2.png)
 
 | Total Government Requests for Information Received Second Half of 2015 | Requests Where Twilio Did Not Notify Customers That User Information Was Produced | Requests Where Twilio Notified Customers That User Information Was Produced | Requests Were Twilio Declined To Furnish User Information To Requesting Agency | Requests Withdrawn By Agency Based On Twilio Disclosure Policy |
 |------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------|
