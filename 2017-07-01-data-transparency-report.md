@@ -110,7 +110,7 @@ In the first half of 2017, Twilio responded to 856 requests for user information
 | Other: Legal Submission    | 2            | 4          | 4          | 5             | 15    |
 | Total Requests             | 63           | 113        | 35         | 645           | 856   |
 
-![](images/2017-07-01-number-government-requests.png)
+![](images/2017-H1-number-government-requests.png)
 
 Notes:
 
@@ -194,7 +194,7 @@ In the first half of 2017, Twilio responded to 875 government requests for user 
 | Total EMEA                                | 553                                                                               | 79                                                                          | 93                                                                                                               |
 
 
-![](images/2017-07-01-twilio-notifications.png)
+![](images/2017-H1-twilio-notifications.png)
 
 Notes:
 * The percentage of requests where Twilio notified a customer decreased from 20% to 12% between the Second Half of 2016 and the First Half of 2017 Transparency Reports. Twilio attributes this reduction two two factors: 1) an increase in international requests where disclosure is prohibited by regulation and 2) an increase in the number of agencies who submitted a nondisclosure demand after being notified of Twilio’s privacy policy.
